@@ -4,9 +4,9 @@ The rise of fake social media accounts poses significant challenges, including t
 This approach ensures robust detection capabilities while maintaining user privacy and scalability. The system can be deployed across platforms to combat malicious activity, thereby fostering a safer and more trustworthy social media ecosystem. The solution also incorporates sentiment analysis and content authenticity checks to identify potential bot-generated or malicious posts. It supports multi-platform integration for detecting fake accounts across various social networks. By providing actionable insights and automated flagging mechanisms, the system empowers platform administrators to take timely actions against fraudulent activities, enhancing user experience and platform security.
 
 Keywords : Fake Social Media Accounts, Machine Learning, Natural Language Processing,
-<img width="1919" height="857" alt="Screenshot 2025-10-16 105811" src="https://github.com/user-attachments/assets/3c097ca1-5c41-4821-a4e5-61dd485c5766" />
-<img width="1919" height="863" alt="Screenshot 2025-10-16 105754" src="https://github.com/user-attachments/assets/7bb7e5f8-a2b3-4207-860d-cac0555342a3" />
-<img width="1919" height="861" alt="Screenshot 2025-10-16 105727" src="https://github.com/user-attachments/assets/41d057c8-e780-4412-8982-d51a9c0eef1d" />
-<img width="1919" height="863" alt="Screenshot 2025-10-16 105710" src="https://github.com/user-attachments/assets/d6b1a7c7-743d-4cd2-88d2-72151b281a3b" />
-<img width="1919" height="862" alt="Screenshot 2025-10-16 105650" src="https://github.com/user-attachments/assets/e3c50eab-8f69-4206-86f3-d1a03700a634" />
 <img width="1919" height="779" alt="Screenshot 2025-10-16 100352" src="https://github.com/user-attachments/assets/8d0a2882-87db-4017-aa49-0eaaf77a4db4" />
+<img width="1919" height="862" alt="Screenshot 2025-10-16 105650" src="https://github.com/user-attachments/assets/e3c50eab-8f69-4206-86f3-d1a03700a634" />
+<img width="1919" height="863" alt="Screenshot 2025-10-16 105710" src="https://github.com/user-attachments/assets/d6b1a7c7-743d-4cd2-88d2-72151b281a3b" />
+<img width="1919" height="861" alt="Screenshot 2025-10-16 105727" src="https://github.com/user-attachments/assets/41d057c8-e780-4412-8982-d51a9c0eef1d" />
+<img width="1919" height="863" alt="Screenshot 2025-10-16 105754" src="https://github.com/user-attachments/assets/7bb7e5f8-a2b3-4207-860d-cac0555342a3" />
+<img width="1919" height="857" alt="Screenshot 2025-10-16 105811" src="https://github.com/user-attachments/assets/3c097ca1-5c41-4821-a4e5-61dd485c5766" />
